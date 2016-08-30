@@ -4,7 +4,7 @@
 # All rights reserved - Do Not Redistribute
 #
 
-username = ''
+username = 'vagrant'
 
 # User options 
 default['impala_dev']['username'] = username
